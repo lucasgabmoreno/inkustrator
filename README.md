@@ -10,14 +10,16 @@ A patch for optimizing Inkscaoe 1.2.1+ for Adobe Illustrator users, including fe
 ## ⚙ Linux
 
 Remove `$HOME/.config/inkscape`
-Install last Inkscape, options:
-- 
+Don't use package version, install last Inkscape version instead. Recommended options:
+* AppImage
+* PPA
+* Flatpack
+* Snap
+
+Open Inkscape and set:
+Edit > Preferences > Interface > Keyboard > Keyboard file > Adobe Illustrator (adobe-illustrato-cs2.xml)
 
 
-
-This package is all about flatpak, but it also contains "just files" that you can use on any version of GIMP (.deb, .rpm, Snap, AppImage, Windows, macOS). Just check the location of the GIMP configuration files.
-
-**Start and quit GIMP after you installed before you continue!**
 
 ### Prepare the Flatpak enviroment
 
@@ -37,6 +39,7 @@ The new icon needs to be set manually.
 ### Ubuntu Snap
 
 Configuration folder: `$HOME/snap/gimp/47/.config/GIMP/2.10/`
+/home/myName/snap/inkscape/5874
 
 ### Other Linux or Unix(-like) systems (.deb, .rpm, etc.)
 
