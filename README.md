@@ -7,41 +7,43 @@ A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including fe
 
 (It's like [Diolinux's PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) but instead of Photoshop to GIMP it's Illustrator to Inkscape) 
 
+## ⚙ Install
+
+Remove inkscape configuration folder<br>
+[Install inkscape](https://inkscape.org/release/)<br>
+Start Inkscape and set:<br>
+`Edit > Preferences > Interface > Keyboard > Keyboard file > Adobe Illustrator (adobe-illustrato-cs2.xml)`<br>
+Close Inkscape<br>
+Download last zip Inkustrator release and past content into configuration folder (if it doesn't exist, create it)
+
 ## ⚙ Ubuntu/Debian or derivatives
 
-Use this installer
+Use this all in one installer instead.
 
 ## ⚙ Other Linux or Unix(-like) system
 
-Remove `$HOME/.config/inkscape`
-Don't use package version, install last Inkscape instead with:
-* AppImage
-* Flatpack
-* Snap
+Don't use package version, install last Inkscape:
+* [AppImage](https://inkscape.org/release/all/gnulinux/appimage/)
+* [Flatpack](https://flathub.org/apps/details/org.inkscape.Inkscape)
+* [Snap](https://snapcraft.io/inkscape)
 
-Open Inkscape and set:<br>
-`Edit > Preferences > Interface > Keyboard > Keyboard file > Adobe Illustrator (adobe-illustrato-cs2.xml)`
+Flatpack/AppImage configuration folder: `$HOME/.config/inkscape`<br>
+Snap configuration folder: `$HOME/snap/inkscape/5874/.config/inkscape/`
 
-Download last release zip and extract it.
-
-If Flatpack or AppImage paste config folder content into this folder (if not exist, create it)
-`$HOME/.config/inkscape`
-IF Snap do the same but use this folder instead:
-`$HOME/snap/inkscape/5874/.config/inkscape/`
-
-### macOS
+## macOS
 
 Configuration folder: `"$HOME/Library/Application Support/Inkscape/"`
 
-### Windows
+## Windows
 
 Configuration folder: `%APPDATA%\Inkscape`
 
 ## Credits
+* [Inkscape](https://inkscape.org/)
+* [Diolinux PhotGIMP](https://github.com/Diolinux/PhotoGIMP) project
+* [Jesús David Navarro, jEsuSdA 8](https://www.jesusda.com/projects/colorpalettes/index.html)
 
-* This project would not be possible without the amazing GIMP team.
-* The Photo in the new Splash is from [Isabella Mariana](https://www.pexels.com/pt-br/@isabella-mariana-1022505)
-* A BIG thanks to all Diolinux’s supporters on [Twitch](https://twitch.tv/Diolinux) and [YouTube](https://youtube.com/Diolinux).
-
-## Patch Notes
--  [Veja as Notas de Lançamento em Português](https://diolinux.com.br/2020/06/photogimp-2020.html)
+## References
+* [How to make INKSCAPE look like Illustrator 2020](https://youtu.be/fzEjBldtba4)
+* [Inkscape for Adobe Illustrator users](https://wiki.inkscape.org/wiki/Inkscape_for_Adobe_Illustrator_users)
+* [Adobe default keyboar shortcuts](https://helpx.adobe.com/es/illustrator/using/default-keyboard-shortcuts.html)
