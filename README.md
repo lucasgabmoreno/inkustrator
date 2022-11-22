@@ -7,9 +7,17 @@ A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including fe
 
 (It's like [Diolinux's PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) but instead of Photoshop to GIMP it's Illustrator to Inkscape) 
 
-## ⚙ Install
+## ⚙ Configuration folders
 
-Remove inkscape configuration folder<br>
+| OS | Configuration folder |
+| :--- | :--- |
+| Linux | $HOME/.config/inkscape |
+| Snap | $HOME/snap/inkscape/5874/.config/inkscape/ |
+
+
+# ⚙ Install
+
+If you have Inkscape installed, uninstalled it and remove configuration folder<br>
 [Install inkscape](https://inkscape.org/release/)<br>
 Start Inkscape and set:<br>
 `Edit > Preferences > Interface > Keyboard > Keyboard file > Adobe Illustrator (adobe-illustrato-cs2.xml)`<br>
@@ -27,8 +35,8 @@ Don't use package version, install last Inkscape:
 * [Flatpack](https://flathub.org/apps/details/org.inkscape.Inkscape)
 * [Snap](https://snapcraft.io/inkscape)
 
-Flatpack/AppImage configuration folder: `$HOME/.config/inkscape`<br>
-Snap configuration folder: `$HOME/snap/inkscape/5874/.config/inkscape/`
+
+Snap configuration folder: ``
 
 ## macOS
 
