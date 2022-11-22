@@ -13,38 +13,22 @@ A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including fe
 | :--- | :--- |
 | Linux | $HOME/.config/inkscape |
 | Snap | $HOME/snap/inkscape/5874/.config/inkscape/ |
+| Windows | %APPDATA%\Inkscape |
+| MacOS | $HOME/Library/Application Support/Inkscape/ |
 
-
-# ⚙ Install
+## ⚙ Install
 
 If you have Inkscape installed, uninstalled it and remove configuration folder<br>
-[Install inkscape](https://inkscape.org/release/)<br>
-Start Inkscape and set:<br>
+1. [Install inkscape](https://inkscape.org/release/)<br>
+2. Start Inkscape and set:<br>
 `Edit > Preferences > Interface > Keyboard > Keyboard file > Adobe Illustrator (adobe-illustrato-cs2.xml)`<br>
-Close Inkscape<br>
-Download last zip Inkustrator release and past content into configuration folder (if it doesn't exist, create it)
+3. Close Inkscape<br>
+4. Download last zip Inkustrator release and past content into configuration folder.
 
 ## ⚙ Ubuntu/Debian or derivatives
 
 Use this all in one installer instead.
 
-## ⚙ Other Linux or Unix(-like) system
-
-Don't use package version, install last Inkscape:
-* [AppImage](https://inkscape.org/release/all/gnulinux/appimage/)
-* [Flatpack](https://flathub.org/apps/details/org.inkscape.Inkscape)
-* [Snap](https://snapcraft.io/inkscape)
-
-
-Snap configuration folder: ``
-
-## macOS
-
-Configuration folder: `"$HOME/Library/Application Support/Inkscape/"`
-
-## Windows
-
-Configuration folder: `%APPDATA%\Inkscape`
 
 ## Credits
 * [Inkscape](https://inkscape.org/)
