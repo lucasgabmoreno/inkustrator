@@ -25,11 +25,6 @@ If you have Inkscape installed, uninstalled it and remove configuration folder<b
 3. Close Inkscape<br>
 4. Download last zip Inkustrator release and past content into configuration folder.
 
-## ⚙ Ubuntu/Debian or derivatives
-
-Use this all in one installer instead.
-
-
 ## Credits
 * [Inkscape](https://inkscape.org/)
 * [Diolinux PhotGIMP](https://github.com/Diolinux/PhotoGIMP) project
