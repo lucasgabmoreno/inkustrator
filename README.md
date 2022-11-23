@@ -21,10 +21,10 @@ A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including fe
 
 | OS | Configuration folder |
 | :--- | :--- |
-| Linux Flatpack, PPA and AppImage | $HOME/.config/inkscape |
-| Ubuntu Snap | $HOME/snap/inkscape/5874/.config/inkscape/ |
-| Windows | %APPDATA%\Inkscape |
-| MacOS | $HOME/Library/Application Support/Inkscape/ |
+| Linux Flatpack, PPA and AppImage | *$HOME/.config/inkscape* |
+| Ubuntu Snap | *$HOME/snap/inkscape/5874/.config/inkscape/* |
+| Windows | *%APPDATA%\Inkscape* |
+| MacOS | *$HOME/Library/Application Support/Inkscape/* |
 
 ## Credits
 * [Inkscape](https://inkscape.org/)
