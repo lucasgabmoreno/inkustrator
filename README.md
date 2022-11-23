@@ -18,12 +18,12 @@ A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including fe
 
 ## ⚙ Install
 
-If you have Inkscape installed, uninstalled it and remove configuration folder<br>
-1. [Install inkscape](https://inkscape.org/release/)<br>
-2. Start Inkscape and set:<br>
+1. If you have Inkscape installed, uninstalled it and remove configuration folder<br>
+2. [Install inkscape](https://inkscape.org/release/)<br>
+3. Start Inkscape and set:<br>
 `Edit > Preferences > Interface > Keyboard > Keyboard file > Adobe Illustrator (adobe-illustrato-cs2.xml)`<br>
-3. Close Inkscape<br>
-4. Download last zip Inkustrator release and past content into configuration folder.
+4. Close Inkscape<br>
+5. Download last zip Inkustrator release and past content into configuration folder.
 
 ## Credits
 * [Inkscape](https://inkscape.org/)
