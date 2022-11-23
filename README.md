@@ -4,6 +4,7 @@ A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including fe
 
 * UI organization to mimic Adobe Illustrator;
 * Fixed Adobe Illustator shortcuts similar to the ones in Illustrator for Windows, following [Adobe’s Documentation](https://helpx.adobe.com/es/illustrator/using/default-keyboard-shortcuts.html);
+* [Pantano color palettes](https://www.jesusda.com/projects/colorpalettes/index.html)
 
 (Same as [Diolinux's PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) but instead of Photoshop to GIMP it's Illustrator to Inkscape) 
 
