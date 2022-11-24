@@ -8,6 +8,10 @@ A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including fe
 
 (Same as [Diolinux's PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) but instead of Photoshop to GIMP it's Illustrator to Inkscape) 
 
+**📷 Screenshot**
+
+<img src="screenshot.png">
+
 ## ⚙ Install
 
 1. If you have Inkscape installed, uninstalled it and remove [configuration folder](https://github.com/lucasgabmoreno/inkustrator/edit/main/README.md#-configuration-folders)<br>
