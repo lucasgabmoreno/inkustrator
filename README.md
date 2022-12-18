@@ -14,12 +14,7 @@ A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including fe
 
 ## ⚙ Install
 
-1. If you have Inkscape installed, uninstalled it and remove [configuration folder](https://github.com/lucasgabmoreno/inkustrator/edit/main/README.md#-configuration-folders)<br>
-2. [Install inkscape](https://inkscape.org/release/)<br>
-3. Start Inkscape and set:<br>
-`Edit ⟶ Preferences ⟶ Interface ⟶ Keyboard ⟶ Keyboard file ⟶ Adobe Illustrator (adobe-illustrato-cs2.xml)`<br>
-4. Close Inkscape<br>
-5. Download [last zip Inkustrator release](https://github.com/lucasgabmoreno/inkustrator/releases/latest) and past content into [configuration folder](https://github.com/lucasgabmoreno/inkustrator/edit/main/README.md#-configuration-folders).
+Download [last zip Inkustrator release](https://github.com/lucasgabmoreno/inkustrator/releases/latest) and past content into configuration folder.
 
 ## ⚙ Configuration folders
 
