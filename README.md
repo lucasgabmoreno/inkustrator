@@ -1,5 +1,7 @@
 # 🎨 Inkustrator
 
+<img src="inkustator.png" align="right" alt="Inkustrator application icon" title="Inkustrator application icon">
+
 A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including features like:
 
 * UI organization to mimic Adobe Illustrator;
