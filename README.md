@@ -1,6 +1,6 @@
 # 🎨 Inkustrator
 
-<img src="inkustator.png" align="right" alt="Inkustrator application icon" title="Inkustrator application icon">
+<img src="inkustrator.png" align="right" alt="Inkustrator application icon" title="Inkustrator application icon">
 
 A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including features like:
 
@@ -10,6 +10,7 @@ A patch for optimizing Inkscape 1.2.1+ for Adobe Illustrator users, including fe
 
 (Same as [Diolinux's PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) but instead of Photoshop to GIMP it's Illustrator to Inkscape) 
 
+<br><br>
 **📷 Screenshot**
 
 <img src="screenshot.png">
@@ -28,12 +29,10 @@ Download [last zip Inkustrator release](https://github.com/lucasgabmoreno/inkust
 | Linux Flatpack | *$HOME/.var/app/org.inkscape.Inkscape/config/inkscape* |
 | Ubuntu Snap | *$HOME/snap/inkscape/5874/.config/inkscape/* |
 
-## Credits
+## Thanks
 * [Inkscape](https://inkscape.org/)
-* [Diolinux PhotGIMP](https://github.com/Diolinux/PhotoGIMP) project
-* [Jesús David Navarro, jEsuSdA 8](https://www.jesusda.com/projects/colorpalettes/index.html)
-
-## References
-* [How to make INKSCAPE look like Illustrator 2020](https://youtu.be/fzEjBldtba4)
-* [Inkscape for Adobe Illustrator users](https://wiki.inkscape.org/wiki/Inkscape_for_Adobe_Illustrator_users)
-* [Adobe default keyboar shortcuts](https://helpx.adobe.com/es/illustrator/using/default-keyboard-shortcuts.html)
+* [Inkscape wiki](https://wiki.inkscape.org/wiki/Inkscape_for_Adobe_Illustrator_users)
+* [Diolinux](https://github.com/Diolinux/PhotoGIMP)
+* [Jesús David Navarro](https://www.jesusda.com/projects/colorpalettes/index.html)
+* [Sanjula Lakpahana](https://youtu.be/fzEjBldtba4)
+* [Adobe](https://helpx.adobe.com/es/illustrator/using/default-keyboard-shortcuts.html)
