@@ -24,7 +24,7 @@ Download [last zip Inkustrator release](https://github.com/lucasgabmoreno/inkust
 | OS | Configuration folder |
 | :--- | :--- |
 | Windows | *%APPDATA%\Inkscape* |
-| MacOS | *~/Library/Application Support/Inkscape/* |
+| MacOS | *~/Library/Application Support/org.inkscape.Inkscape/config/inkscape/* |
 | Linux PPA and AppImage | *$HOME/.config/inkscape* |
 | Linux Flatpack | *$HOME/.var/app/org.inkscape.Inkscape/config/inkscape* |
 | Ubuntu Snap | *$HOME/snap/inkscape/5874/.config/inkscape/* |
