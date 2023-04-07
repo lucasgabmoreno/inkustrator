@@ -29,6 +29,9 @@ Download [last zip Inkustrator release](https://github.com/lucasgabmoreno/inkust
 | Linux Flatpack | *$HOME/.var/app/org.inkscape.Inkscape/config/inkscape* |
 | Ubuntu Snap | *$HOME/snap/inkscape/5874/.config/inkscape/* |
 
+## ⚙ All in one installer
+For Chrome OS, Debian, Ubuntu or derivatives use [this installer](https://github.com/lucasgabmoreno/bashinstallers/edit/main/inkscape/README.md)
+
 ## Thanks
 * [Inkscape](https://inkscape.org/)
 * [Inkscape wiki](https://wiki.inkscape.org/wiki/Inkscape_for_Adobe_Illustrator_users)
