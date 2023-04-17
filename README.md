@@ -31,7 +31,7 @@ Download [last zip Inkustrator release](https://github.com/lucasgabmoreno/inkust
 ## ⚙ All in one installer
 For Chrome OS, Debian, Ubuntu or derivatives use [this installer](https://github.com/lucasgabmoreno/bashinstallers/tree/main/inkscape)
 
-## Thanks
+## References
 * [Inkscape](https://inkscape.org/)
 * [Inkscape wiki](https://wiki.inkscape.org/wiki/Inkscape_for_Adobe_Illustrator_users)
 * [Diolinux](https://github.com/Diolinux/PhotoGIMP)
